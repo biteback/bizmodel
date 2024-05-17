@@ -1,8 +1,9 @@
-Familiarize
-Avoid
-Sustainability aspect
+Familiarize w/ Bugs
+Avoid evoking gross; abstract
+*eco-protein*,
+premium materials
 
-*When it arrives, what's its form factor?*
+Sustainability
 
 - Meatball
 - Patty
