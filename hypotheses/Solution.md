@@ -1,4 +1,4 @@
-Ground chuck, ie 
+Ground chuck, ie moulu.
 
 Packaging instructions.
 
