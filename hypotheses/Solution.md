@@ -1,4 +1,6 @@
-Steak.
+Ground chuck, ie 
+
+Packaging instructions.
 
 Familiarize w/ Bugs
 Avoid evoking gross; abstract
