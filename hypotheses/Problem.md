@@ -1,4 +1,4 @@
-Carbon footprint too high. She could reduce consumption, but then she starves.
+GHG/Carbon footprint too high. She could reduce consumption, but then she starves. **She doesn't have choice.**
 
 When people think bugs, images pop up.
 

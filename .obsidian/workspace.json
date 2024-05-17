@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypotheses/Solution.md",
+                "file": "hypotheses/Value Proposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypotheses/Solution.md",
+                "file": "hypotheses/Value Proposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "455133cea13551df",
+  "active": "10c7cb4553ec2aa9",
   "lastOpenFiles": [
     "hypotheses/Problem.md",
     "hypotheses/Solution.md",
