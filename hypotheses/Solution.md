@@ -1,4 +1,4 @@
-Insect-based food is a low-carbon alternative **choice** to meat. You can reduce your footprint without tightening your belt. 
+Steak.
 
 Familiarize w/ Bugs
 Avoid evoking gross; abstract
