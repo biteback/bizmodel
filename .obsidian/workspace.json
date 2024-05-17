@@ -4,22 +4,190 @@
     "type": "split",
     "children": [
       {
-        "id": "7b311a46d972a992",
-        "type": "tabs",
+        "id": "5f1b6eca4ef8ac0a",
+        "type": "split",
         "children": [
           {
-            "id": "0b790686a04dfa11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personas/Ecological Emily.md",
-                "mode": "source",
-                "source": false
+            "id": "fd04bf004feab88b",
+            "type": "split",
+            "children": [
+              {
+                "id": "ba4c79850ec35277",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1a004435f5a735ba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Adventurous Andy.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "8075cadaca40d2a3",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "da7a54221d47fc98",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Single Parent Sam.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "b05201027bcec404",
+            "type": "split",
+            "children": [
+              {
+                "id": "7b311a46d972a992",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0b790686a04dfa11",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Ecological Emily.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "96cf8a006130815b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ee2ac3da549965e5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Remote Robert.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
           }
-        ]
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "b39d6a057b6313a4",
+        "type": "split",
+        "children": [
+          {
+            "id": "bbceb41a2b32a9a0",
+            "type": "split",
+            "children": [
+              {
+                "id": "153ab84ea1215438",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5982f4da13f16d6e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Bulking Brad.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "1f2207c915c12710",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "31352ced5396b882",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Cost-Conscious Callum.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "2ba25c29e525e6d9",
+            "type": "split",
+            "children": [
+              {
+                "id": "a05feaee93ccdb56",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3fecb5e82c271657",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Healthy Helen.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "13a9504fd2d275ce",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "966f08751679436b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "personas/Dietary Restriction Delilah.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -78,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personas/Ecological Emily.md",
+                "file": "personas/Remote Robert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personas/Ecological Emily.md",
+                "file": "personas/Remote Robert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,21 +297,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0b790686a04dfa11",
+  "active": "ee2ac3da549965e5",
   "lastOpenFiles": [
+    "personas/Dietary Restriction Delilah.md",
+    "personas/Healthy Helen.md",
+    "personas/Cost-Conscious Callum.md",
     "personas/Adventurous Andy.md",
+    "personas/Single Parent Sam.md",
     "personas/Ecological Emily.md",
-    "hypotheses/Unfair Advantage.md",
-    "hypotheses/Customer Segments.md",
+    "personas/Bulking Brad.md",
     "hypotheses/Value Proposition.md",
     "hypotheses/Solution.md",
+    "hypotheses/Unfair Advantage.md",
+    "hypotheses/Customer Segments.md",
     "hypotheses/Problem.md",
-    "personas/Adam.md",
-    "personas/Healthy Helen.md",
-    "personas/Healthy Helen 1.md",
-    "personas/Beefy Brad 1.md",
-    "personas/Adventurous Eater Andy 1.md",
-    "personas/Beefy Brad.md",
+    "personas/Remote Robert.md",
     "hypotheses/Cost Structure.md",
     "readme.md",
     "personas/Template.md",

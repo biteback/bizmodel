@@ -1,4 +1,2 @@
-CO2 labels
-
-Meatball
-Pro
+[[Ecological Emily]] - Lower-Carbon than Beef
+[[Bulking Brad]] - Cheap protein, high macros
