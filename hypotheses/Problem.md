@@ -1,0 +1,1 @@
+When people think bugs, images pop up.

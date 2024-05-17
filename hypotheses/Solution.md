@@ -1,0 +1,3 @@
+Familiarize
+Avoid
+Sustainability aspect
